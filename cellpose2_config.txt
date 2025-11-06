@@ -1,0 +1,19 @@
+user=Eduardo.Esteva@nyulangone.org
+## batch parameters:
+# batch-manifest.txt
+# output-manifest.txt
+tiff_manifest=tiff_manifest.txt
+out_dir_manifest=out_dir_manifest.txt
+
+## Segmentation paramters:
+# microns:
+diameter=17
+nuc_channel=1
+flow_threshold=0.4
+cellprob_threshold=0.0
+
+
+sample_count=$(wc -l ${tiff_manifest} | awk '{print $1}')
+cellpose2_segmentation_module_Path=cellpose2_segmentation_controller.s
+cellpose2_mem=300GB
+gpus=2
