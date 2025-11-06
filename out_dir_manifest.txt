@@ -1,0 +1,4 @@
+/gpfs/data/abl/tric/ee699/MF-spleen-Opal/cellpose2_segmentation/segmentations/
+/gpfs/data/abl/tric/ee699/MF-spleen-Opal/cellpose2_segmentation/segmentations/
+/gpfs/data/abl/tric/ee699/MF-spleen-Opal/cellpose2_segmentation/segmentations/
+/gpfs/data/abl/tric/ee699/MF-spleen-Opal/cellpose2_segmentation/segmentations/

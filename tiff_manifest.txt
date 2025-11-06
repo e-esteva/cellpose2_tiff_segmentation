@@ -1,0 +1,4 @@
+../finalized_omes/20230808_21-2551-A4-mf_Scan2.ome.tiff
+../finalized_omes/20230808_3772_3708-mf_Scan3.ome.tiff
+../finalized_omes/20230808_i21-2912-A3-mf_Scan2.ome.tiff
+../finalized_omes/20230808_i22-3474-A-h_Scan2.ome.tiff
