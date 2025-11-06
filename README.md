@@ -10,6 +10,7 @@ Features
 💾 Flexible Input: Works with standard TIFFs, multi-channel TIFFs, and OME-TIFFs
 
 Pipeline Architecture
+```
 cellpose2_pipeline.s (Main Controller)
     ↓
     Submits array job →
@@ -19,6 +20,7 @@ cellpose2_pipeline.s (Main Controller)
         Runs →
             ↓
         cellpose2_segmentation.py (Core segmentation)
+```
 Installation
 Requirements
 
